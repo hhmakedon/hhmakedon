@@ -1,9 +1,15 @@
 ---
-name: What is your name?
-title: What is the title of your post
+name: Question Form
+about: Submit a question with your name and details
+title: "[QUESTION] Your title here"
+labels: question
+assignees: ''
+
 ---
 
-| Info Needed | Type you answer here |
-| -------- | -------- | 
-| Name | Your Name|
-| Question | Your Question|
+## Please fill out the following:
+
+| Info Needed | Your Answer |
+| ----------- | ----------- |
+| **Name** | <!-- Your name here --> |
+| **Question** | <!-- Your question here --> |
