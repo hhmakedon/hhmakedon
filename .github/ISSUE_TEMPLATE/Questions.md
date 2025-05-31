@@ -1,15 +1,11 @@
 ---
 name: Question Form
-about: Submit a question with your name and details
-title: "[QUESTION] Your title here"
-labels: question
-assignees: ''
-
+about: Ask me a question
+title: "[QUESTION] Enter your post title here"
+labels: questions
 ---
 
-## Please fill out the following:
-
-| Info Needed | Your Answer |
-| ----------- | ----------- |
-| **Name** | <!-- Your name here --> |
-| **Question** | <!-- Your question here --> |
+| Info Needed | Type your answer here |
+| ----------- | --------------------- |
+| Name        | What is your name?    |
+| Question    | Type your question    |
