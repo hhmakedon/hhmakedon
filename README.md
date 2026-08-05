@@ -9,7 +9,7 @@
 
 <h2>I was born in Sulaymaniyah, Iraq, but grew up in Chicago, Illinois.</h2>
 <p>I am ethnically Kurdish</p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png" height="200" width="200">
+<img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/1200px-Flag_of_Kurdistan.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Flag_of_Kurdistan.svg/3840px-Flag_of_Kurdistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail)" height="200" width="200">
 
 <h2>I studied too much...</h2>
 <ul>
